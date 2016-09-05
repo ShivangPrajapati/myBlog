@@ -1,0 +1,59 @@
+.no-padding {
+	padding : 0;
+}
+
+.no-margin {
+	margin : 0;
+}
+.my-nav {
+	border-top : 2px solid #1e88e5;
+	border-bottom : 2px solid #1e88e5;
+}	
+.myHeader {
+color : #fff;
+
+}
+
+.my-footer {
+	background-color : black;
+	color: #A2A2A0;
+	margin-top: 10px;
+	padding-top: 15px;
+}
+
+.wrapper {
+	background-image : url(http://localhost/Blog/images/try.jpg);
+	width : 100%;
+	height : 150px;
+
+}
+
+.format {
+	font-family: verdana;
+}
+
+hr { 
+	border-color: inherit ;
+}
+
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+
+.block_button {
+	background-color: #FFF;
+	color: #4796E9;
+	border-color: #4796E9;
+	border-radius: 15px; 
+}
+
+.unblock_button {
+	background-color: #4796E9;
+	color: #FFF;
+	border-color: #FFF;
+	border-radius: 15px; 
+}
+
